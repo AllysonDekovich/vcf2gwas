@@ -19,5 +19,3 @@ dependencies:
   - gemma=0.98.3
   - statsmodels=0.14.4
   - pip
-  - pip:
-    - git+https://github.com/AllysonDekovich/vcf2gwas.git
