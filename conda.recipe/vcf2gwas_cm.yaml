@@ -1,4 +1,4 @@
-name: vcf2gwas_custom
+name: vcf2gwas_cm
 channels:
   - conda-forge
   - bioconda
